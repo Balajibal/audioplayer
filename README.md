@@ -1,4 +1,4 @@
-# Ex.No: 2 Create a simple client and server service using AIDL interface in android studio.
+# Ex.No: 3 Create a simple application, to play and control the audio file and to perfrom the start,pause and stop opeartion in Android Studio.
 
 
 ## AIM:
