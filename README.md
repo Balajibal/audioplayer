@@ -126,8 +126,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT:
 
-![Screenshot_10](https://user-images.githubusercontent.com/75235455/200613589-5e3d4d2d-5e72-4464-9ad6-b312b742c3a9.png)
-![Screenshot_9](https://user-images.githubusercontent.com/75235455/200613690-d3d2fe28-52cb-4594-8c52-01eaef99931b.png)
+![200127085-1d11042a-d7f0-487e-901d-66b22359a6b2](https://user-images.githubusercontent.com/75234946/201464020-b2117160-6b3b-45bc-a33b-21a0f5354311.png)
+
 
 ## RESULT:
 Thus, a Simple Android Application to create a AIDL interface and communicate the process between client and server using AIDL interface in Android Studio is developed and executed successfully.
