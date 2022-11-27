@@ -1,5 +1,7 @@
-# Ex.No: 3 Create a simple application, to play and control the audio file and to perfrom the start,pause and stop opeartion in Android Studio.
+### EX NO : 03
+### DATE  : 11.10.2022
 
+# <p align="center"> Develop a simple application to play and control the audio file in android studio </p>
 
 ## AIM:
 
